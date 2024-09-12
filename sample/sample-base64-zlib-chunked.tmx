@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="12" height="12" tilewidth="8" tileheight="8" infinite="1" nextlayerid="3" nextobjectid="1">
+ <editorsettings>
+  <chunksize width="4" height="4"/>
+ </editorsettings>
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="Ground" width="12" height="12">
+  <data encoding="base64" compression="zlib">
+   <chunk x="0" y="0" width="4" height="4">
+   eJxjYmBgYELD7AwMCzgYGA6AMIgPpBcwAmlGqDyMzwykAWvkBDw=
+  </chunk>
+   <chunk x="4" y="0" width="4" height="4">
+   eJxjYmBgYELCHAwMB5AxI1AMGbMAxWCYGYgBklQGPA==
+  </chunk>
+   <chunk x="8" y="0" width="4" height="4">
+   eJxjYmBgYELCHAwMB0CYHYhBfEYoBoolYOMDAG3YAzo=
+  </chunk>
+   <chunk x="0" y="4" width="4" height="4">
+   eJxjYmBg4GBgWMAIpFmANBMSnxmIkfmMSHw2BoYEViAbAHsMA78=
+  </chunk>
+   <chunk x="4" y="4" width="4" height="4">
+   eJxjZGBgYIRiFgaGBBYIDcbMQD5InJWBYQFMDZDNwIbEBwA5vAIs
+  </chunk>
+   <chunk x="8" y="4" width="4" height="4">
+   eJxjZGBgYARiDgaGBCYomxQ+ADHQAbE=
+  </chunk>
+   <chunk x="0" y="8" width="4" height="4">
+   eJxjYmBg4GBgWMAKxIxANhMWPjtEDIyZ0DAAfswCwg==
+  </chunk>
+   <chunk x="4" y="8" width="4" height="4">
+   eJxjZGBgYMSDOdAwExoGAAVgADE=
+  </chunk>
+   <chunk x="8" y="8" width="4" height="4">
+   eJxjZGBgYARiDgaGBCYoG5nPAcXsUD46BgAxaAFa
+  </chunk>
+  </data>
+ </layer>
+ <layer id="2" name="Walls" width="12" height="12">
+  <data encoding="base64" compression="zlib">
+   <chunk x="0" y="0" width="4" height="4">
+   eJxjYCAOcDEwJHAyMByA8YHsBTxAMQAafAJJ
+  </chunk>
+   <chunk x="4" y="0" width="4" height="4">
+   eJxjYMAPOBkYDiBjbghmAGEeIAYAVGQEEg==
+  </chunk>
+   <chunk x="8" y="0" width="4" height="4">
+   eJxjYMAPuND4nAwMC5D5AAowALQ=
+  </chunk>
+   <chunk x="0" y="4" width="4" height="4">
+   eJxjYIAATgaGBdxAzIDE52FgOADjcwHZnAyYAACIkAOd
+  </chunk>
+   <chunk x="4" y="4" width="4" height="4">
+   eJxjYEAAbgaGBQJAmh+IQTQPkM8JpPmAmBOK0QEAQ7QBsA==
+  </chunk>
+   <chunk x="8" y="4" width="4" height="4">
+   eJzjZGBYwMuAAJxAPhKXgQuNDwLI6gFdeAIX
+  </chunk>
+   <chunk x="4" y="8" width="4" height="4">
+   eJxjYIAAXjSaWAAABYgAGw==
+  </chunk>
+   <chunk x="8" y="8" width="4" height="4">
+   eJxjYEAFvAykAQACsAAO
+  </chunk>
+  </data>
+ </layer>
+</map>

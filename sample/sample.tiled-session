@@ -1,0 +1,81 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "sample.tmx",
+    "automapping.whileDrawing": false,
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "sample-base64-zlib-remap.tmx": {
+            "scale": 6.82,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 45.527859237536646,
+                "y": 57.331378299120225
+            }
+        },
+        "sample-base64.tmx": {
+            "scale": 6.828125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 36.027459954233414,
+                "y": 57.263157894736835
+            }
+        },
+        "sample-csv.tmx": {
+            "scale": 5.413020833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 48.032329452516116,
+                "y": 48.032329452516116
+            }
+        },
+        "sample.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 64.54545454545455,
+                "y": 52.81818181818182
+            }
+        },
+        "tiles-remap.tsx": {
+            "scaleInDock": 5,
+            "scaleInEditor": 11
+        },
+        "tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 5,
+            "scaleInEditor": 11
+        }
+    },
+    "map.height": 12,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": "3",
+    "map.orientation": 0,
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 12,
+    "openFiles": [
+        "sample.tmx",
+        "tiles.tsx"
+    ],
+    "project": "sample.tiled-project",
+    "recentFiles": [
+        "tiles.tsx",
+        "sample-base64-zlib-remap.tmx",
+        "tiles-remap.tsx",
+        "sample.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    },
+    "tileset.transparentColor": "#ff00ff",
+    "tileset.useTransparentColor": false
+}

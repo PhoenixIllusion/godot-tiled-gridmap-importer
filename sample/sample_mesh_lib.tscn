@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://bjjha0yjdhibd"]
+
+[ext_resource type="PackedScene" uid="uid://lk6njc6n4n46" path="res://sample/sample-mesh-lib.glb" id="1_0c0yr"]
+
+[node name="sample-mesh-lib" instance=ExtResource("1_0c0yr")]

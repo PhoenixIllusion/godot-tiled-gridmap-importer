@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://btbexovivts2l"]
+
+[ext_resource type="PackedScene" uid="uid://dwk8ylnwsb2lu" path="res://sample/sample-base64-zlib-chunked.tmx" id="1_14wyf"]
+[ext_resource type="MeshLibrary" uid="uid://cop8a0yc4wyg5" path="res://sample/sample-mesh-lib.tres" id="2_wpcqf"]
+
+[node name="GridMap" instance=ExtResource("1_14wyf")]
+mesh_library = ExtResource("2_wpcqf")

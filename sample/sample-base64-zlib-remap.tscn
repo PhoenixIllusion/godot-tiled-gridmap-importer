@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://cr73urrs6ux00"]
+
+[ext_resource type="PackedScene" uid="uid://dxw6ai0dofgnl" path="res://sample/sample-base64-zlib-remap.tmx" id="1_ijr55"]
+[ext_resource type="MeshLibrary" uid="uid://dthq0arp6vtwp" path="res://sample/sample-mesh-lib.tres" id="2_vul02"]
+
+[node name="GridMap" instance=ExtResource("1_ijr55")]
+mesh_library = ExtResource("2_vul02")
